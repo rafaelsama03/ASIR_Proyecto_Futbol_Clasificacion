@@ -10,9 +10,9 @@ Este proyecto sirve como demostración práctica de las habilidades adquiridas e
 
 Todas las tareas del proyecto (diseño, configuración, desarrollo y cierre) se gestionan y visualizan a través de un tablero Kanban, siguiendo el cronograma que va desde octubre de 2025 hasta enero de 2026.
 
-Enlace al Tablero Kanban (Trello, Jira, etc.): [**ACTUALIZAR CON EL ENLACE REAL DE TRELLO AQUÍ**]
+Enlace al Tablero Kanban (Trello, Jira, etc.):(https://trello.com/invite/b/68f9d92dd3e1dc54a32b0cba/ATTI4db91498b2d81af1fde4fe3dba78ed3cE13C4D91/proyecto-intermodular-asir-clasificacion-de-futbol)
 
-Documento del Plan de Trabajo: [Enlace al archivo plan_de_trabajo_proyecto.pdf subido al repositorio o enlace a Google Docs.]
+Documento del Plan de Trabajo: 
 
 Estructura del Tablero Kanban
 
